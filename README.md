@@ -2,7 +2,7 @@
 
 arXiv preprint: [https://arxiv.org/abs/2309.08928](https://arxiv.org/abs/2309.08928)
 
-Official implementation. The paper has been accepted to ICCV 2023!
+Official implementation. The paper has been accepted to ICCV 2023! ✨
 
 The code will be released soon!
 
